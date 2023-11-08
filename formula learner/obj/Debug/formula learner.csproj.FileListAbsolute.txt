@@ -1,0 +1,68 @@
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\bin\Debug\formula learner.exe.config
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\bin\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\bin\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.csproj.AssemblyReference.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.csproj.SuggestedBindingRedirects.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\MainWindow.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\App.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner_MarkupCompile.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner_MarkupCompile.lref
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\MainWindow.baml
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.g.resources
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula_learner.Properties.Resources.resources
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.csproj.GenerateResource.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.csproj.CoreCompileInputs.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\obj\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\bin\Debug\formula learner.exe.config
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\bin\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\bin\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.csproj.AssemblyReference.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.csproj.SuggestedBindingRedirects.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\MainWindow.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\App.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner_MarkupCompile.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner_MarkupCompile.lref
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\MainWindow.baml
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.g.resources
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula_learner.Properties.Resources.resources
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.csproj.GenerateResource.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.csproj.CoreCompileInputs.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\formula learner\formula learner\obj\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\bin\Debug\formula learner.exe.config
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\bin\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\bin\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.csproj.AssemblyReference.cache
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.csproj.SuggestedBindingRedirects.cache
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\MainWindow.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\App.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner_MarkupCompile.cache
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner_MarkupCompile.lref
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\MainWindow.baml
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.g.resources
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula_learner.Properties.Resources.resources
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.csproj.GenerateResource.cache
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.csproj.CoreCompileInputs.cache
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\лаба 2\formula learner\obj\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\bin\Debug\formula learner.exe.config
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\bin\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\bin\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.csproj.AssemblyReference.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.csproj.SuggestedBindingRedirects.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\MainWindow.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\App.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner_MarkupCompile.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner_MarkupCompile.lref
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\MainWindow.baml
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.g.resources
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula_learner.Properties.Resources.resources
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.csproj.GenerateResource.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.csproj.CoreCompileInputs.cache
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.exe
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\formula learner.pdb
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\Page1.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\WatchFamousFormulaWindow.g.cs
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\Page1.baml
+C:\Users\kargi\OneDrive\Рабочий стол\formula learner\obj\Debug\WatchFamousFormulaWindow.baml
